@@ -1,4 +1,4 @@
-Test tasks
+## Test tasks
 
 1. find 1 duplicate number in arr:
 
